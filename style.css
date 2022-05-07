@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.login{
+    position: absolute;
+    left: 41%;
+     top:30%;
+     height: 300px;
+     width: 300px;
+     background-color: antiquewhite;
+}
+.login h3{
+    text-align: center;
+
+}
+h1{
+    background-color: aquamarine;
+}
+.login label{
+    margin: 20px;
+    position: relative;
+    
+}
+.login a button{
+
+   margin-top: 60px;
+   margin-left: 130px;
+   color: chocolate;
+   background-color: aqua;
+    padding: 10px;
+}
+.heading{
+    text-align: center;
+}
+.foot{
+    position: relative;
+    top: 650px;
+    text-align: center;
+    background-color: black;
+    color: wheat;
+    height: 30px;
+    
+}
+.inlogin{
+    position: relative;
+    top: 30px;
+}
